@@ -20,6 +20,5 @@ public class Controller : MonoBehaviour {
 
         _rig.velocity = transform.forward * Speed * v;
         _rig.angularVelocity = transform.up * Torque * h;
-        _rig.par
     }
 }
