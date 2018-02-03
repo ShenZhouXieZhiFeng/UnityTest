@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1912080988
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.assetbundle
+      Dependencies:
+        Dependency_0: mats.assetbundle
+    Info_1:
+      Name: sphere.assetbundle
+      Dependencies:
+        Dependency_0: mats.assetbundle
+    Info_2:
+      Name: mats.assetbundle
+      Dependencies: {}

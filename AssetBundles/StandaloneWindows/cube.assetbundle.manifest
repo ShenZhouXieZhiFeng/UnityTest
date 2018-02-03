@@ -1,13 +1,13 @@
 ManifestFileVersion: 0
-CRC: 1029552852
+CRC: 1130309345
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 69724cf4c83be2885d50c4b0e7167c99
+    Hash: 945d86c19e2441f9d633076969c805e9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 93bea3c59194061aa2018b1f7751d49c
-HashAppended: 1
+    Hash: bc89520d8bb187b7f2cde3adb4e1939e
+HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
@@ -21,10 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundle/Cube.prefab
-Dependencies: []
+Dependencies:
+- G:/Work/Project/Github/UnityTest/AssetBundles/StandaloneWindows/mats.assetbundle
